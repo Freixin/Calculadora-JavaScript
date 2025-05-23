@@ -19,4 +19,4 @@ Uma calculadora interativa com operações básicas (soma, subtração, multipli
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/calculadora-javascript.git
+https://freixin.github.io/Calculadora-JavaScript/
